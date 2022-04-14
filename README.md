@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/LuisBand/hazel-pytest-travis.svg?branch=main)](https://app.travis-ci.com/LuisBand/hazel-pytest-travis)
 # Django-and-Django-REST-Framework
 
 ## Setup
